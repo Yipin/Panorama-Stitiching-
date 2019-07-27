@@ -1,4 +1,4 @@
-Panorama-Stitiching
+Panorama-Stitching
 ====================
 Automated Panorama Stitching
 
