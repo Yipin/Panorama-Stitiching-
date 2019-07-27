@@ -15,4 +15,10 @@ Automated Panorama Stitching
 
 6. proj6_recognition.m implements Panorama recognition: automatically discover and stitch the images from one panorama together from a set of images.
 
+Selected results:
+<br>
+<img src="results/panorama002.jpg" width="720" height="360">
+<br>
+<img src="results/panorama004.jpg" width="720" height="360">
+
 Project webpage: http://cs.brown.edu/courses/cs129/results/proj6/zyp/
